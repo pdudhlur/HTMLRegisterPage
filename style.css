@@ -1,3 +1,19 @@
 body{
     background-color: chartreuse;
 }
+
+h2 {
+    border-color: black;
+    border-width: 5px;
+    border-style: dashed;
+    display: inline;
+    
+}
+
+input{
+    text-align: center;
+}
+
+div{
+    text-align: center;
+}
