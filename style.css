@@ -23,3 +23,7 @@ div{
 .Alt-Log{
     text-align: center;
 }
+
+::placeholder{
+    color: red;
+}
