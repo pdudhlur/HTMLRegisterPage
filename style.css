@@ -1,6 +1,8 @@
 body{
-    background-color: chartreuse;
+    background-image: linear-gradient(to right, green, yellow); 
 }
+
+
 
 h2 {
     border-color: black;
@@ -15,5 +17,9 @@ input{
 }
 
 div{
+    text-align: center;
+}
+
+.Alt-Log{
     text-align: center;
 }
